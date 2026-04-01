@@ -1,0 +1,7 @@
+result = input('请输入内容')
+print(type(result),result)
+age=input("请输入内容")
+print(type(age))
+age1=int(age)
+print(type(age))
+print(type(age1))
