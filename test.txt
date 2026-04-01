@@ -1,2 +1,2 @@
-Hello from local
+Hello from GitHub conflict
 我想要测试一下冲突问题
